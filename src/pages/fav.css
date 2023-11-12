@@ -1,0 +1,53 @@
+.favorite-screen {
+  background-color: #302F3C;
+  background-size: inherit;
+  background-position:center;
+  background-repeat: no-repeat;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+  padding: 50px;
+  min-height: 100vh;
+}
+
+
+
+.favorite {
+  position: relative;
+  margin:20 auto;
+  top:8px;
+  left:30px;
+  width: 60%;
+  height: 30%;
+  padding: 5px 5px;
+  text-align: center;
+  color:#FFF;
+  border-radius: 30px 30px 30px 30px;
+  background-color: rgba(235, 235, 235, 0.15);
+ 
+}
+
+
+
+.box-cards {
+  position: relative;
+  margin:20 auto;
+  top:8px;
+  left:30px;
+  width: 60%;
+  height: 30%;
+  padding: 5px 5px;
+  text-align: center;
+  color:#FFF;
+  border-radius: 30px 30px 30px 30px;
+  gap:40px;
+}
+

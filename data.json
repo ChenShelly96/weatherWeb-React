@@ -1,0 +1,35 @@
+{
+  "favoritesArry": [
+    {
+      "id": "213225",
+      "name": "Jerusalem",
+      "current": "21",
+      "weather": "Cloudy",
+      "icon": "/icons/36.png"
+    },
+    {
+      "id": "215854",
+      "name": "Tel Aviv",
+      "current": "26.7",
+      "weather": "Cloudy",
+      "icon": "/icons/7.png"
+    },
+    {
+      "id": "349727",
+      "name": "New York",
+      "current": "6.1",
+      "Weather": "Partly sunny",
+      "icon": "/icons/3.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
